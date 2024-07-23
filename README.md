@@ -32,3 +32,9 @@ A Linux kernel syscall implementation tracker.
 
 - [ ] [Read more on Syscall.sh](https://syscall.sh/)
 - [ ] [Read more on syscalls](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
+
+### Zig Lang Book:
+
+Zig is a new programming language intended as a successor to C, aiming to be even smaller and simpler to program in while offering more functionality. It’s interesting to keep a reference to this book; when I have time, I will definitely learn Zig. (P.S.: A malware with Zig?! ;p)
+
+- [ ] [Read more on Zig Book](https://github.com/pedropark99/zig-book)
