@@ -1,4 +1,10 @@
 # pushMyResources
+
+![nerds](https://github.com/user-attachments/assets/0bed3c52-3bdc-4006-a4a3-ca0911dec6ee)
+
+##### Image Credit - Twitter: [@7etsuo](https://x.com/7etsuo)
+-----------------------------------------------------------------------------------------------
+
 ## For: [22/07/2024](#date:"mdy")
 
 ### OneShell: Encrypted (mtls) reverse shell
