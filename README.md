@@ -25,3 +25,10 @@ The blog "Effective EDR Telemetry Blocking via Person-in-the-Middle Network Filt
 This series will be very useful for revising and working on my own project of building a simple OS (for learning purposes only).
 
 - [ ] [Read more on Advanced Operating Systems Structures and Implementation](https://x.com/7etsuo/status/1815302216703484357)
+
+### Linux kernel syscall tables:
+
+A Linux kernel syscall implementation tracker.
+
+- [ ] [Read more on Syscall.sh](https://syscall.sh/)
+- [ ] [Read more on syscalls](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
