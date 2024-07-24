@@ -44,3 +44,27 @@ A Linux kernel syscall implementation tracker.
 Zig is a new programming language intended as a successor to C, aiming to be even smaller and simpler to program in while offering more functionality. It’s interesting to keep a reference to this book; when I have time, I will definitely learn Zig. (P.S.: A malware with Zig?! ;p)
 
 - [ ] [Read more on Zig Book](https://github.com/pedropark99/zig-book)
+
+## For: [24/07/2024](#date:"mdy")
+### Threat Intelligence: cybercrime group FIN7
+
+This blog post explores the recent advancements of the cybercrime group FIN7, including new methods to bypass endpoint detection and response (EDR) systems and their use of automated attacks. It details the evolution of FIN7's tactics, including their development of the AvNeutralizer tool, which is sold in the cybercrime underworld to disrupt security solutions. The article provides insights into the group's long history of targeting various industries, alongside their shift towards ransomware and partnerships with other malicious actors.
+
+- [ ] [Read more on FIN7 Reboot | Cybercrime Gang Enhances Ops with New EDR Bypasses and Automated Attacks](https://www.sentinelone.com/labs/fin7-reboot-cybercrime-gang-enhances-ops-with-new-edr-bypasses-and-automated-attacks/)
+
+### 2010 CS 301 - Assembly Language
+
+Assembly Language
+- [ ] [Read more on  2010 CS 301 - Assembly Language](https://www.cs.uaf.edu/2010/fall/cs301/index.html)
+
+### Active Directory Enumeration for Red Teams
+
+This blog post discusses advanced techniques for Active Directory enumeration by red teams, focusing on overcoming common defensive strategies. It highlights tools and methods such as BloodHound and LDAP queries, and addresses how red teams can leverage endpoint and server-side telemetry to enhance operational security during reconnaissance and privilege escalation attacks. The article also explores ways to blend into normal network behavior to evade detection. 
+
+- [ ] [Read more on Active Directory Enumeration for Red Teams](https://www.mdsec.co.uk/2024/02/active-directory-enumeration-for-red-teams/)
+
+### Finding criticals in mobile apps - Joel Margolis (0xteknogeek)
+
+A Podcast with Joel Margolis (0xteknogeek), sharing his expertise in mobile hacking.
+
+- [ ] [Read more on  Finding criticals in mobile apps](https://youtu.be/PaVxzsQ3MdA?si=pKbtfvDzutUzD6DK)
