@@ -68,3 +68,36 @@ This blog post discusses advanced techniques for Active Directory enumeration by
 A Podcast with Joel Margolis (0xteknogeek), sharing his expertise in mobile hacking.
 
 - [ ] [Read more on  Finding criticals in mobile apps](https://youtu.be/PaVxzsQ3MdA?si=pKbtfvDzutUzD6DK)
+
+## For: [26/07/2024](#date:"mdy")
+### APT45: North Korea’s Digital Military Machine
+
+This report from Google: discusses APT45, a cyber threat group associated with North Korea. It details their tactics, targets, and objectives, highlighting their role in cyber espionage and financial theft. The group is known for sophisticated cyber operations, often targeting government, military, and financial institutions.
+
+- [ ] [Read more on APT45: North Korea’s Digital Military Machine](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
+
+## For: [29/07/2024](#date:"mdy")
+### Ransomware operators exploit ESXi hypervisor vulnerability for mass encryption
+
+The Microsoft report discusses a vulnerability in ESXi hypervisors that ransomware operators are exploiting to gain full administrative access. This flaw, identified as CVE-2024-37085, allows attackers to create or rename a domain group called "ESX Admins", granting them control over the hypervisor. This enables mass encryption of virtual machines and potential data exfiltration. 
+
+- [ ] [Read more on Ransomware operators exploit ESXi hypervisor vulnerability for mass encryption](https://www.microsoft.com/en-us/security/blog/2024/07/29/ransomware-operators-exploit-esxi-hypervisor-vulnerability-for-mass-encryption/)
+
+### Beej's Guides
+
+A collection of books and guides by Beej
+
+- [ ] [Read more on Beej's Guides](https://beej.us/guide/)
+
+## For: [30/07/2024](#date:"mdy")
+### SysPWN Session 1 : Alex Plaskett on Vulnerability Research and PWN2OWN competitions
+
+A session about vulnerbability research and PWN2OWN competitions
+
+- [ ] [Read more on Vulnerability Research and PWN2OWN competitions](https://youtu.be/uBu9B0tNObs?si=hZ4YfNWzsQXkJmKQ)
+
+### Local KDC for Windows
+
+An intresting research about local KDC for Windows
+
+- [ ] [Read more on Local KDC for Windows](https://github.com/jborean93/LocalKdc.git)
