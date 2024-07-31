@@ -95,6 +95,12 @@ This blog post from TrustedSec describes how attackers can exploit a registry ch
 
 - [ ] [Read more on Specula](https://trustedsec.com/blog/specula-turning-outlook-into-a-c2-with-one-registry-change)
 
+### Malware Reverse Engineering Handbook
+
+A handbook about Malware Reverse Engineering (Basic one)
+
+- [ ] [Read more on Malware Reverse Engineering Handbook](https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf)
+
 ## For: [30/07/2024](#date:"mdy")
 ### SysPWN Session 1 : Alex Plaskett on Vulnerability Research and PWN2OWN competitions
 
