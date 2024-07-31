@@ -89,6 +89,12 @@ A collection of books and guides by Beej
 
 - [ ] [Read more on Beej's Guides](https://beej.us/guide/)
 
+### Specula - Turning Outlook Into a C2 With One Registry Change
+
+This blog post from TrustedSec describes how attackers can exploit a registry change in Microsoft Outlook to turn it into a Command and Control (C2) server using the Specula framework. This vulnerability involves setting a custom Outlook home page, allowing for the execution of malicious scripts under the guise of a legitimate process. The article also discusses mitigation strategies and detection methods to prevent or identify such attacks.
+
+- [ ] [Read more on Specula](https://trustedsec.com/blog/specula-turning-outlook-into-a-c2-with-one-registry-change)
+
 ## For: [30/07/2024](#date:"mdy")
 ### SysPWN Session 1 : Alex Plaskett on Vulnerability Research and PWN2OWN competitions
 
