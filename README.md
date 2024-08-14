@@ -109,7 +109,67 @@ A session about vulnerbability research and PWN2OWN competitions
 - [ ] [Read more on Vulnerability Research and PWN2OWN competitions](https://youtu.be/uBu9B0tNObs?si=hZ4YfNWzsQXkJmKQ)
 
 ### Local KDC for Windows
-
 An intresting research about local KDC for Windows
-
 - [ ] [Read more on Local KDC for Windows](https://github.com/jborean93/LocalKdc.git)
+
+## For: [14/08/2024](#date:"mdy")
+### The Windows Binaries Index
+An amazing website where you can find windows binaries. So!! you can get the binary you want before and after a patch bindiff those two binaries and happy reversing!
+The blog talk about the motivation behind the project and it's very useful to get an idea about windows patches.
+- [ ] [Read more on The Windows Binaries Index](https://winbindex.m417z.com/)
+- [ ] [Read more on The Windows Binaries Index - Blog](https://m417z.com/Introducing-Winbindex-the-Windows-Binaries-Index/)
+- [ ] [Extra Unified Update Platform](https://uupdump.net/)
+- [ ] [Extra Microsoft Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx)
+- [ ] [Extra Windows 10 update history](https://support.microsoft.com/en-us/topic/windows-10-update-history-93345c32-4ae1-6d1c-f885-6c0b718adf3b)
+- [ ] [Extra Windows 11 update history](https://support.microsoft.com/en-us/topic/windows-11-version-23h2-update-history-59875222-b990-4bd9-932f-91a5954de434)
+- [ ] [Extra Windows Update msu structure and patch mechanisms](https://learn.microsoft.com/en-us/windows/deployment/update/psfxwhitepaper)
+- [ ] [Extra Symbols the Microsoft Way](https://randomascii.wordpress.com/2013/03/09/symbols-the-microsoft-way/)
+
+### Windows-Hardening-CTF
+A windows hardening script that makes it difficult and more annoying to compromise a Windows device.
+- [ ] [Read more on Windows-Hardening-CTF](https://github.com/simeononsecurity/Windows-Hardening-CTF)
+
+### Red-Team-Notes
+ADCS, RBCD, Sliver C2
+- [ ] [Read more on Red-Team-Notes](https://github.com/seriotonctf/Red-Team-Notes)
+
+### FIN7: The Truth Doesn't Need to be so STARK
+FIN7 APT Group CTI
+- [ ] [Read more on FIN7: The Truth Doesn't Need to be so STARK](https://www.team-cymru.com/post/fin7-the-truth-doesn-t-need-to-be-so-stark)
+
+### Threat Hunting and Detection
+Threat Hunting and Detection - Resources (KQL)
+[Read more on Threat Hunting and Detection](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection)
+
+### Teredo / IPv6
+Windows – Teredo Tunnel deaktivieren
+[Read more on Teredo](https://www.baebeca.de/windows-teredo-tunnel-deaktivieren/)
+
+### PyMultiTor
+Python Multi Threaded Tor Proxy
+[Read more on pymultitor](https://github.com/realgam3/pymultitor)
+
+### Cyclops: a likely replacement for BellaCiao
+Cyclops: a likely malware written in GoLang - Controlled trough HTTP REST API exposed to the operators withing SSH Tunnel
+[Read more on cyclops](https://harfanglab.io/insidethelab/cyclops-replacement-bellaciao/)
+
+### NTLM Relaying to LDAP - The Hail Mary of Network Compromise 
+NTLM Relaying to LDAP - Very intresting Blod [AD Attack]
+[Read more on NTLM Relaying to LDAP - The Hail Mary of Network Compromise](https://logan-goins.com/2024-07-23-ldap-relay/)
+
+### Stepping Stones – A Red Team Activity Hub
+NCC Group is pleased to open source a new tool built to help Red Teams log their activity for later correlation with the Blue Team’s own logging. [Red teaming collaboration]
+[Read more on Stepping Stones](https://research.nccgroup.com/2024/06/12/stepping-stones-a-red-team-activity-hub/)
+[Read more on Stepping Stones](https://github.com/nccgroup/SteppingStones)
+
+### C23 / C++ This and That
+[Read more on  C23 / C++ This and That](https://www.modernescpp.com/index.php/c23-this-and-that/)
+
+### Microsoft RDP Extensions (MsRdpEx)
+RDP 
+[Read more on MsRdpEx](https://github.com/Devolutions/MsRdpEx.git)
+
+### MaLDAPtive
+MaLDAPtive is a framework for LDAP SearchFilter parsing, obfuscation, deobfuscation and detection.
+[Read more on MaLDAPtive](https://github.com/MaLDAPtive/Invoke-Maldaptive)
+
