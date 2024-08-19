@@ -203,3 +203,8 @@ An introduction to RE, executables, compiling, 32-bit x86 syntax, and stack fram
 
 - [ ] [Read more on x86re.com](https://x86re.com/)
 
+### Vulnerable AD Plus:
+Create a vulnerable active directory that's allowing you to test most of active directory attacks in local lab.
+
+- [ ] [Read more on x86re.com](https://github.com/WaterExecution/vulnerable-AD-plus.git)
+
