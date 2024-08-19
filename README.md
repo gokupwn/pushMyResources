@@ -187,3 +187,19 @@ MaLDAPtive is a framework for LDAP SearchFilter parsing, obfuscation, deobfuscat
 
 - [ ] [Read more on MaLDAPtive](https://github.com/MaLDAPtive/Invoke-Maldaptive)
 
+## For: [18/08/2024](#date:"mdy")
+### How I Use AI
+A research scientist at Google DeepMind with 20 years of experience uses AI effectively for various tasks, leveraging it as a powerful tool to enhance productivity and problem-solving
+
+- [ ] [Read more on How I Use AI](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
+
+### Phone Number OSINT Resources
+Phone Number OSINT
+
+- [ ] [Read more on Phone Number OSINT](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/phone-numbers)
+
+### An introduction to RE:
+An introduction to RE, executables, compiling, 32-bit x86 syntax, and stack frames.
+
+- [ ] [Read more on x86re.com](https://x86re.com/)
+
