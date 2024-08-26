@@ -208,3 +208,29 @@ Create a vulnerable active directory that's allowing you to test most of active 
 
 - [ ] [Read more on Vulnerable AD Plus](https://github.com/WaterExecution/vulnerable-AD-plus.git)
 
+
+## For: [26/08/2024](#date:"mdy")
+### MoonPeak RAT
+An analysis of MoonPeak RAT from Talos. MoonPeak malware from North Korean actors unveils new details on attacker infrastructure.
+
+- [ ] [Read more on MoonPeak RAT from Talos](https://blog.talosintelligence.com/moonpeak-malware-infrastructure-north-korea/)
+
+### Antivirus Scan
+An web app to identify the running antivirus solution used by the controlled client. You can upload the tasklist command result to the web app and get the used AV.
+
+- [ ] [Read more on Antivirus Scan](https://github.com/Aabyss-Team/Antivirus-Scan)
+
+### Computer Architecture Course
+Computer architecture is the science and art of selecting and interconnecting hardware components to create a computer that meets functional, performance and cost goals. This course introduces the basic hardware structure of a modern programmable computer, including the basic laws underlying performance evaluation.
+
+- [ ] [Read more on Antivirus Scan](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule)
+
+### Unveiling "sedexp": A Stealthy Linux Malware Exploiting udev Rules
+Stroz Friedberg recently identified active usage of a lesser-known Linux persistence technique by an as-yet unidentified piece of malware, dubbed “sedexp,” during an investigation. Despite the malware being in use since at least 2022, Stroz Friedberg has found multiple instances available in online sandboxes with zero detections.  At the time of this writing, the persistence technique used is not documented by MITRE ATT&CK. This blog details the active use of this malware and its persistence technique by a financially motivated threat actor. [READ MORE ABOUT udev Rules]
+
+- [ ] [Read more on sedexp and undetectable linux persistence method ](https://www.aon.com/en/insights/cyber-labs/unveiling-sedexp)
+- [ ] [Read more on USP GitHub Project ](https://github.com/grahamhelton/USP)
+
+### Research Papers
+https://inldigitallibrary.inl.gov/sites/STI/STI/Forms/AllItems.aspx
+https://dl.acm.org/
